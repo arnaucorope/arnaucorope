@@ -31,19 +31,36 @@ Sorting project using two stacks and a restricted set of operations, with differ
 
 Custom implementation of the C `printf` function with format parsing and variadic arguments.
 
-`C` `Variadic Functions` `Parsing`
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Variadic%20Functions-555555?style=flat" />
+  <img src="https://img.shields.io/badge/Format%20Parsing-555555?style=flat" />
+  <img src="https://img.shields.io/badge/Flags%20%26%20Precision-555555?style=flat" />
+</p>
 
 ### 📖 [Unix Line Reader](https://github.com/arnaucorope/unix-line-reader-c)
 
 Buffered line reader capable of reading files line by line while preserving state between calls.
 
-`C` `File Descriptors` `Memory Management` `Buffers`
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/File%20Descriptors-555555?style=flat" />
+  <img src="https://img.shields.io/badge/Buffers-555555?style=flat" />
+  <img src="https://img.shields.io/badge/Static%20Variables-555555?style=flat" />
+  <img src="https://img.shields.io/badge/Memory%20Management-555555?style=flat" />
+</p>
 
 ### 📚 [Custom libc](https://github.com/arnaucorope/custom-libc)
 
 Custom implementation of common C standard library functions and linked list utilities.
 
-`C` `Pointers` `Memory Management` `Linked Lists`
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pointers-555555?style=flat" />
+  <img src="https://img.shields.io/badge/Memory%20Management-555555?style=flat" />
+  <img src="https://img.shields.io/badge/Strings-555555?style=flat" />
+  <img src="https://img.shields.io/badge/Linked%20Lists-555555?style=flat" />
+</p>
 
 ## 🛠️ Technologies & Tools
 
