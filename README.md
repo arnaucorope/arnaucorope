@@ -8,13 +8,24 @@ I'm a student at **42 Barcelona**, currently building a strong foundation in **C
 
 Maze generation, solving and visualization project built in Python.
 
-`Python` `DFS` `Prim` `BFS` `Pathfinding` `Algorithms`
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/DFS-555555?style=flat" />
+  <img src="https://img.shields.io/badge/Prim-555555?style=flat" />
+  <img src="https://img.shields.io/badge/BFS-555555?style=flat" />
+  <img src="https://img.shields.io/badge/Pathfinding-555555?style=flat" />
+</p>
 
 ### 🔀 [Dual Stack Sort](https://github.com/arnaucorope/dual-stack-sort)
 
 Sorting project using two stacks and a restricted set of operations, with different strategies depending on the input.
 
-`C` `Algorithms` `Data Structures` `Radix Sort`
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Algorithms-555555?style=flat" />
+  <img src="https://img.shields.io/badge/Data%20Structures-555555?style=flat" />
+  <img src="https://img.shields.io/badge/Radix%20Sort-555555?style=flat" />
+</p>
 
 ### 🖨️ [Custom C printf](https://github.com/arnaucorope/custom-c-printf)
 
