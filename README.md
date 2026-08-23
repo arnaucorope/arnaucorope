@@ -36,17 +36,31 @@ Custom implementation of common C standard library functions and linked list uti
 
 ## 🛠️ Technologies & Tools
 
-**Languages**
+### Languages
 
-`C` `Python` `Bash`
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+</p>
 
-**Development**
+### Tools & Environment
 
-`Linux` `Git` `Make` `GDB` `Valgrind`
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
+  <img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=gnu&logoColor=white" />
+</p>
 
-**Currently learning**
+### Currently Learning
 
-`POSIX Threads` `Mutexes` `Concurrency`
+<p>
+  <img src="https://img.shields.io/badge/POSIX_Threads-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mutexes-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Concurrency-00599C?style=for-the-badge&logo=c&logoColor=white" />
+</p>
 
 ## 📫 Contact
 
