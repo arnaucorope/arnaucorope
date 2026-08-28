@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://ishan-rest.vercel.app/svg/banner/hacker/arnaucorope" />
+</p>
+
 # Arnau Corominas
 
 I'm a student at **42 Barcelona**, currently building a strong foundation in **C, Python, algorithms, and systems programming** through project-based learning.
