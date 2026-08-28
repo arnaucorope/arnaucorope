@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ishan-rest.vercel.app/svg/banner/hacker/arnaucorope" />
+  <img src="https://ishan-rest.vercel.app/svg/banner/dev/arnaucorope" />
 </p>
 
 # Arnau Corominas
