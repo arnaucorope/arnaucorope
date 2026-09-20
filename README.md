@@ -8,6 +8,18 @@ I'm a student at **42 Barcelona**, currently building a strong foundation in **C
 
 ## 🚀 Selected Projects
 
+### ⚙️ [Concurrent Resource Scheduler](https://github.com/arnaucorope/codexion)
+
+Multithreaded simulation in C with shared-resource scheduling, FIFO and EDF policies, and synchronization using POSIX threads and mutexes.
+
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/POSIX%20Threads-555555?style=flat" />
+  <img src="https://img.shields.io/badge/Mutexes-555555?style=flat" />
+  <img src="https://img.shields.io/badge/FIFO-555555?style=flat" />
+  <img src="https://img.shields.io/badge/EDF-555555?style=flat" />
+</p>
+
 ### 🧩 [A-Maze-ing](https://github.com/arnaucorope/a-maze-ing)
 
 Maze generation, solving and visualization project built in Python.
@@ -89,10 +101,11 @@ Custom implementation of common C standard library functions and linked list uti
 
 ### Currently Learning
 
+Currently working on **Fly-in**, a project in **Python** at 42 Barcelona.
+
 <p>
-  <img src="https://img.shields.io/badge/POSIX_Threads-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mutexes-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Concurrency-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fly--in-555555?style=for-the-badge" />
 </p>
 
 ## 📫 Contact
