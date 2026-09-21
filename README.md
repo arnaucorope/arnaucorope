@@ -8,7 +8,7 @@ I'm a student at **42 Barcelona**, currently building a strong foundation in **C
 
 ## 🚀 Selected Projects
 
-### ⚙️ [Concurrent Resource Scheduler](https://github.com/arnaucorope/codexion)
+### ⚙️ [Concurrent Resource Scheduler](https://github.com/arnaucorope/concurrent_resource_scheduler)
 
 Multithreaded simulation in C with shared-resource scheduling, FIFO and EDF policies, and synchronization using POSIX threads and mutexes.
 
